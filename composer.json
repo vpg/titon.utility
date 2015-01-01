@@ -16,8 +16,6 @@
         "ext-mbstring": "*"
     },
     "require-dev": {
-        "titon/test": "dev-master",
-        "titon/type": "*",
         "ext-mcrypt": "*",
         "ext-simplexml": "*",
         "ext-fileinfo": "*"
